@@ -4,5 +4,7 @@
 
 ```
 25 Dec 2023:
-    - hwlloworld, stringFunction, variable, constant, conversion
+    - helloworld, stringFunction, variable, constant, conversion
+28 Dec 2023:
+    - type-declaration, math-declaration, compreation-operator, array, slice, map
 ```
