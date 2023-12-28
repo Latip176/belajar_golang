@@ -16,6 +16,6 @@
 ## thanks for
 
 <ul>
-    <li><a href="https://www.w3schools.com/go/go_functions.php">w3schools</a></li>
+    <li><a href="https://www.w3schools.com/go/index.php">w3schools</a></li>
     <li><a href="https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw">PZN (Programming Zaman Now := PlayList golang.)</a></li>
 </ul>
