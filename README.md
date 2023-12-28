@@ -8,5 +8,14 @@
 26 Dec 2023:
     - type-declaration, math-declaration, compreation-operator, array, slice, map
 27 Dec 2023:
-    = if, switch, for, break, function, function-parameter
+    - if, switch, for, break, function, function-parameter
+28 Dec 2023:
+    - function-return, function-return-multiple-value, function-return-named-value, function-paradic, function-as-value
 ```
+
+## thanks for
+
+<ul>
+    <li><a href="https://www.w3schools.com/go/go_functions.php">w3schools</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw">PZN (Programming Zaman Now := PlayList golang.)</a></li>
+</ul>
