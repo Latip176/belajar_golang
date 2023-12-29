@@ -12,7 +12,7 @@
 28 Dec 2023:
     - function-return, function-return-multiple-value, function-return-named-value, function-paradic, function-as-value
 29 Dec 2023:
-    - function-anonymous, function-recursive, panic, defer, recover
+    - function-anonymous, function-recursive, closure, panic, defer, recover
 ```
 
 ## thanks for
