@@ -15,6 +15,8 @@
     - function-anonymous, function-recursive, closure, panic, defer, recover
 30 Dec 2023:
     - comment, struct, struct-function, interface
+31 Dec 2023:
+    - interface-kosong, interface-errors, nill, type-assertions
 ```
 
 ## thanks for
