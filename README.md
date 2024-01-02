@@ -17,6 +17,8 @@
     - comment, struct, struct-function, interface
 31 Dec 2023:
     - interface-kosong, interface-errors, nill, type-assertions
+02 Jan 2024:
+    - pointer, pointer-in-function, pointer-in-method
 ```
 
 ## thanks for
